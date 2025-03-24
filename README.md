@@ -26,14 +26,17 @@ Power BI Desktop, CSV file, Dax Language, Power Query
 
 
 ## Power BI Techniques and Knowledge Used:
-• Data Modeling involving 5 tables<br />
-•	Utilized bookmarks to toggle seamlessly between multiple visuals<br />
-•	Developed a tooltip page to display detailed insights, such as gross margin % and net sales trend for customers<br />
-•	Employed bridge tables in data model for many * many relationships<br />
-•	Created TOPN parameter to filter top/underperforming products <br />
-•	Applied conditional formatting to add icons to value (Gross margin %), visually indicating the trend<br />
-• Used image-based navigation action for page navigation<br />
-• Developed dynamic titles that adapt based on the selected slicers and parameters<br />
+• Data Modeling involving 5 tables and created dynamic measures for visualization<br>
+ ![dynamic measures!](https://github.com/user-attachments/assets/f02d0518-de91-4166-b53f-a96697dd7319)<br><br>
+ ![dynamic measures!](https://github.com/user-attachments/assets/835809ad-cfff-4626-b771-c2b499e1b9ec)<br><br>
+•	Utilized bookmarks to toggle seamlessly between multiple visuals<br>
+ ![Bookmark!](https://github.com/user-attachments/assets/818250b5-890f-4862-a275-2ceb2e225c03)<br><br>
+ ![Bookmark!](https://github.com/user-attachments/assets/1517b6ec-2a86-4b6f-9ea0-c15bb21c5edc)<br><br>
+•	Developed a tooltip page to display detailed insights, such as top-selling 5 medications for each country and customer age group <br><br>
+•	Created TOPN parameter and KPI slicers to filter top/underperforming products <br>
+• Used image-based navigation action for page navigation<br>
+• Developed dynamic titles that adapt based on the selected slicers and parameters<br>
+ ![dymanic title!](https://github.com/user-attachments/assets/ad03ee04-e2a9-4247-bfb7-75873add79a7)<br><br>
 • Sales & Customer Analysis domain knowledge
 
 
