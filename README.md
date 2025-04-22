@@ -8,8 +8,10 @@ Project Overview: The project delved into medication sales datasets over the pas
 ![trend visualization!](https://github.com/user-attachments/assets/26e529a3-ba72-4958-8d75-f82b79de5420)<br><br>
 
 ## Tools & Platform 
-Power BI Desktop, CSV file, Dax Language, Power Query
+Power BI Desktop, CSV file, Dax Language, Power 
 
+## Dax Functions Used:
+Calculate, TOPN, Switch, Divide, Sum/SUMX, Selectedvalue, Variable, Dateadd, If, Addcolumns, ConcatenateX etc.
 
 ## Key Steps:
 1.	loaded data from CSV files to Power BI. Introduced 4 dimension tables (DrugLookup, CustomerTable, RegulatoryTable) and 1 fact sales tables
@@ -42,8 +44,7 @@ Power BI Desktop, CSV file, Dax Language, Power Query
 • Sales & Customer Analysis domain knowledge
 
 
-## Dax Functions Used:
-Calculate, TOPN, Switch, Divide, Sum/SUMX, Selectedvalue, Variable, Dateadd, If, Addcolumns, ConcatenateX etc.
+
 
 
 
